@@ -13,7 +13,7 @@
 
 This repository is divided to branches that correspond to the blog post sections:
 
-* main - The starter code.
+* main - The starter code
 * routing - The code at the end of the Routing section.
 * components-part1 - The code at the end of the Components-Phase 1 section.
 * websockets - The code at the end of the Hello Websockets! section.
